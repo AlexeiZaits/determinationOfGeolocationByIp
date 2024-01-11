@@ -1,0 +1,27 @@
+{
+  "name": "determinationofgeolocationbyip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir=build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeiZaits/determinationOfGeolocationByIp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeiZaits/determinationOfGeolocationByIp/issues"
+  },
+  "homepage": "https://github.com/AlexeiZaits/determinationOfGeolocationByIp#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
